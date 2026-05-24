@@ -9,7 +9,7 @@ The project focuses on controlling discharge energy by changing resistance, capa
 
 ## RC Generator Schematic
 
-!\[RC Generator Schematic](images/generator\_rc\_edm.jpg)
+!\[RC Generator Schematic](images/generator\_rc\_edm.png)
 
 You can also include the full PDF schematic documentation in the repository:
 
